@@ -70,7 +70,7 @@
 		height: 1.875em;
 		background-color: #eee;
 		border: 0.0625em solid rgba(0, 0, 0, 0.15);
-		border-radius: 5px;
+		border-radius: 6px;
 		transition: 0.35s cubic-bezier(0.785, 0.135, 0.15, 0.86);
 		transition-property: background-color, border-color;
 	}
